@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prashant kumar
+## Hi there 👋 I'm Prashant kumar
 - 🔭 I’m currently working on ...React js and Mongo db.
 - 🌱 I’m currently learning ...Full stack web development.
 - 📫 How to reach me: ...
