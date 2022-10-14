@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Prashant kumar
 ### I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-- 🔭 I’m currently working on ...React js and Mongo db.
+- 🔭 I’m currently working on ...ReactJS and MongoDB.
 - 🌱 I’m currently learning ...Full stack web development.
 - 📫 How to reach me: ...
-- gmail : <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwsJTQJkbJfbMdvZwPZSztpqTRFTgcJcZFhFzWLtMJpwshNHBNnDfQqNWNxvDfHQbcmfDx"/>kumar.prashant477@gmail.com</a>
-- linkedin : [Prashant kumar](https://www.linkedin.com/in/prashant-kumar-346037159/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbYclTuK%2FSSewQ7Cc4zW%2FZQ%3D%3D)
+- Gmail : <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwsJTQJkbJfbMdvZwPZSztpqTRFTgcJcZFhFzWLtMJpwshNHBNnDfQqNWNxvDfHQbcmfDx"/>kumar.prashant477@gmail.com</a>
+- LinkedIn : [Prashant kumar](https://www.linkedin.com/in/prashant-kumar-346037159/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbYclTuK%2FSSewQ7Cc4zW%2FZQ%3D%3D)
 
 ## 🚀 Languages and Tools:
 
